@@ -21,7 +21,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Top Projects
 
 - 🚀 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
   End-to-end pipeline for extracting, cleaning, and loading financial data into a PostgreSQL database.
