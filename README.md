@@ -2,8 +2,6 @@
 
 🎯 **Data Scientist | Data Engineer | SQL Developer | Data Analytics Enthusiast**
 
-I'm passionate about building scalable data solutions, extracting insights from raw datasets, and creating value through clean code and smart queries. With experience in ETL pipelines, predictive models, and data visualization, I aim to turn data into decisions.
-
 ---
 
 ### 💼 What I do
@@ -36,8 +34,5 @@ I'm passionate about building scalable data solutions, extracting insights from 
 ### 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/pedrinhenrik)  
-- 📧 Email: pedrinhenrik@gmail.com
-
+- 📧 Email: pedroliberal100@gmail.com
 ---
-
-*Let's turn data into decisions. 🚀*
