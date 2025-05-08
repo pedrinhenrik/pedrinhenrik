@@ -18,7 +18,7 @@ I'm passionate about building scalable data solutions, extracting insights from 
 ### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgresql,mysql,jupyter,git,github,vscode,docker,linux,pandas,numpy,scikit-learn,tensorflow,html,css,js,azure,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,git,github,vscode,docker,linux,js,azure,aws" />
 </div>
 
 ---
