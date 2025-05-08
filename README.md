@@ -18,7 +18,7 @@ I'm passionate about building scalable data solutions, extracting insights from 
 ### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,github,jupyter,vscode,pandas,numpy,scikit-learn,postgresql,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,sql,postgresql,mysql,jupyter,git,github,vscode,docker,linux,pandas,numpy,scikit-learn,tensorflow,html,css,js,azure,aws,postman" />
 </div>
 
 ---
@@ -27,9 +27,6 @@ I'm passionate about building scalable data solutions, extracting insights from 
 
 - 🚀 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
   End-to-end pipeline for extracting, cleaning, and loading financial data into a PostgreSQL database.
-
-- 🎬 [**Movie Recommender System**](https://github.com/pedrinhenrik/movie-recommender-ml)  
-  Machine learning-based recommendation engine using collaborative filtering.
 
 - 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/titanic-prediction)  
   Classic ML project for binary classification and feature engineering.
