@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pedro Henrique
+# 👋 Hi, I'm Pedro Liberal
 
 🎯 **Data Scientist | Data Engineer | SQL Developer | Data Analytics Enthusiast**
 
