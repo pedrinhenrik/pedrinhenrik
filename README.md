@@ -29,9 +29,9 @@
 - 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/titanic-prediction)  
   Classic ML project for binary classification and feature engineering.
 
-- 📊 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)
+- 📊 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
   Automated scraper for DEV.to posts with MySQL storage, Excel reports, data visualizations, and a Twitter (X) posting bot with preview screenshot generation.
-  
+
 ---
 
 ### 📫 Get in Touch
