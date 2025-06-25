@@ -42,5 +42,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/pedrinhenrik)  
 - 📧 Email: pedroliberal100@gmail.com
-- 📱 Phone/WhatsApp: +55 (61) 9 9973-2326
+- 📱 Phone/WhatsApp: +55 (61) 9 9873-2326
 ---
