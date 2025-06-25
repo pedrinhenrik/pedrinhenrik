@@ -23,7 +23,10 @@
 
 ### 📂 Top Projects
 
-- 🚀 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
+- 🚀 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
+  Pipeline completo com Airflow, Docker, PostgreSQL e Dash para monitoramento, transformação e visualização de preços das principais criptomoedas.
+
+- 📥 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
   End-to-end pipeline for extracting, cleaning, and loading financial data into a PostgreSQL database.
 
 - 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/titanic-prediction)  
@@ -31,6 +34,7 @@
 
 - 📊 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
   Automated scraper for DEV.to posts with MySQL storage, Excel reports, data visualizations, and a Twitter (X) posting bot with preview screenshot generation.
+
 
 ---
 
