@@ -24,7 +24,7 @@
 ### 📂 Top Projects
 
 - 🚀 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
-  Pipeline completo com Airflow, Docker, PostgreSQL e Dash para monitoramento, transformação e visualização de preços das principais criptomoedas.
+  A complete data pipeline using Airflow, Docker, PostgreSQL, and Dash to monitor, transform, and visualize hourly price data of the top 10 cryptocurrencies.
 
 - 📥 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
   End-to-end pipeline for extracting, cleaning, and loading financial data into a PostgreSQL database.
