@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Liberal
 
-🎯 **Data Scientist | Data Engineer | SQL Developer | Data Analytics Enthusiast**
+🎯 **Data Scientist | Data Engineer | SQL Developer | Data Analytics Enthusiast | Back End Developer**
 
 ---
 
