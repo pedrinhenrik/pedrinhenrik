@@ -23,14 +23,14 @@
 
 ### 📂 Top Projects
 
-- 🚀 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
-  A complete data pipeline using Airflow, Docker, PostgreSQL, and Dash to monitor, transform, and visualize hourly price data of the top 10 cryptocurrencies.
-
 - 📊 [**E-Commerce 360**](https://github.com/pedrinhenrik/ecommerce-360)  
   End-to-end analytics project for the Brazilian e-commerce market, including ETL pipelines (PostgreSQL), predictive modeling (XGBoost + SHAP), and interactive Tableau dashboards for logistics, customer satisfaction, and revenue risk insights.
 
-- 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
-  Classic ML project for binary classification and feature engineering.
+- 🚀  [**Falcon 9 Landing Prediction**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
+ First-stage landing classifier built from SpaceX API + Wikipedia scraping. Model benchmarking with Logistic Regression, SVM, Decision Tree and KNN; best SVM at **84% accuracy**. Interactive Plotly/Folium dashboard.
+
+- 🧩 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
+  A complete data pipeline using Airflow, Docker, PostgreSQL, and Dash to monitor, transform, and visualize hourly price data of the top 10 cryptocurrencies.
 
 - 📑 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
   Automated scraper for DEV.to posts with MySQL storage, Excel reports, data visualizations, and a Twitter (X) posting bot with preview screenshot generation.
