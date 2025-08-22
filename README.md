@@ -26,13 +26,13 @@
 - 🚀 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
   A complete data pipeline using Airflow, Docker, PostgreSQL, and Dash to monitor, transform, and visualize hourly price data of the top 10 cryptocurrencies.
 
-- 📥 [**ETL Automation for Financial Data**](https://github.com/pedrinhenrik/etl-financial-project)  
-  End-to-end pipeline for extracting, cleaning, and loading financial data into a PostgreSQL database.
+- 📊 [**E-Commerce 360**](https://github.com/pedrinhenrik/ecommerce-360)  
+  End-to-end analytics project for the Brazilian e-commerce market, including ETL pipelines (PostgreSQL), predictive modeling (XGBoost + SHAP), and interactive Tableau dashboards for logistics, customer satisfaction, and revenue risk insights.
 
 - 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/titanic-prediction)  
   Classic ML project for binary classification and feature engineering.
 
-- 📊 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
+- 📑 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
   Automated scraper for DEV.to posts with MySQL storage, Excel reports, data visualizations, and a Twitter (X) posting bot with preview screenshot generation.
 
 
@@ -42,5 +42,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/pedrinhenrik)  
 - 📧 Email: pedroliberal100@gmail.com
-- 📱 Phone/WhatsApp: +55 (61) 9 9873-2326
+- 📱 Phone/WhatsApp: +55 (61) 9 9891-5835
 ---
