@@ -40,7 +40,7 @@
 
 ### 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/pedrinhenrik)  
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-liberal/)  
 - 📧 Email: pedroliberal100@gmail.com
 - 📱 Phone/WhatsApp: +55 (61) 9 9891-5835
 ---
