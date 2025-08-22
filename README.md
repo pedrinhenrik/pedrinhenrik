@@ -29,7 +29,7 @@
 - 📊 [**E-Commerce 360**](https://github.com/pedrinhenrik/ecommerce-360)  
   End-to-end analytics project for the Brazilian e-commerce market, including ETL pipelines (PostgreSQL), predictive modeling (XGBoost + SHAP), and interactive Tableau dashboards for logistics, customer satisfaction, and revenue risk insights.
 
-- 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/titanic-prediction)  
+- 🧠 [**Titanic Survival Prediction**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
   Classic ML project for binary classification and feature engineering.
 
 - 📑 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
