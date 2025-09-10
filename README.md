@@ -8,8 +8,9 @@
 - **Brasileirão 2025 PowerDash**  
   ETL em Python + scrapers da API Football-Data.org e sites de estatísticas, produzindo tabelas normalizadas para análise no Power BI.  
 
-  ![Brasileirão PowerDash – Home](docs/images/Home.jpg)  
-  ![Brasileirão PowerDash – Interatividade](docs/images/Gif_Dashboard.gif)
+  ![Brasileirão PowerDash – Home](https://github.com/pedrinhenrik/brasileirao-2025-powerdash/blob/main/docs/images/Home.jpg)  
+  ![Brasileirão PowerDash – Interatividade](https://github.com/pedrinhenrik/brasileirao-2025-powerdash/blob/main/docs/images/Gif_Dashboard.gif)
+  ![E-Commerce 360 Preview](https://github.com/pedrinhenrik/ecommerce-360/blob/main/docs/DashBoard_Preview.png)
 
 - **E-Commerce 360**  
   Análise ponta a ponta de e-commerce, com segmentação de clientes (RFM), previsão de churn e risco de receita.  
