@@ -1,19 +1,35 @@
-# 👋 Hi, I'm Pedro Liberal
+# 👋 Olá, eu sou o Pedro Liberal
 
-🎯 **Data Scientist | Data Engineer | SQL Developer | Data Analytics Enthusiast | Back End Developer**
+🎯 **| Analista de Dados | Cientista de Dados | Engenheiro de Dados | Desenvolvedor SQL | Desenvolvedor Back End**
+
+---
+### 📊 Portifólio - Exemplos de Dashboards
+
+- **Brasileirão 2025 PowerDash**  
+  ETL em Python + scrapers da API Football-Data.org e sites de estatísticas, produzindo tabelas normalizadas para análise no Power BI.  
+
+  ![Brasileirão PowerDash – Home](docs/images/Home.jpg)  
+  ![Brasileirão PowerDash – Interatividade](docs/images/Gif_Dashboard.gif)
+
+- **E-Commerce 360**  
+  Análise ponta a ponta de e-commerce, com segmentação de clientes (RFM), previsão de churn e risco de receita.  
+
+  ![E-Commerce 360 Preview](https://github.com/pedrinhenrik/ecommerce-360/blob/main/docs/DashBoard_Preview.png)
+
+➡️ Veja mais projetos no meu [portfólio completo de repositórios](https://github.com/pedrinhenrik?tab=repositories)
 
 ---
 
-### 💼 What I do
-- 🔄 Build and automate ETL processes
-- 📊 Develop dashboards and visualizations
-- 📦 Work with relational and non-relational databases
-- 🤖 Create machine learning models for predictive analytics
-- ☁️ Explore cloud tools and data pipeline orchestration
+### 💼 O que eu faço
+- 🔄 Projeto e automatizo processos de ETL, com facilidade em manipular milhões de registros de forma eficiente
+- 📊 Desenvolvo dashboards e visualizações interativas
+- 📦 Trabalho com bancos de dados relacionais e não relacionais  
+- 🤖 Crio modelos de machine learning para análises preditivas
+- ☁️ Exploro ferramentas de nuvem e orquestração de pipelines de dados  
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tecnologias
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,eclipse,git,github,js,linux,linkedin,matlab,mysql,postgresql,pycharm,python,sklearn,tensorflow,vscode,windows" />
@@ -21,28 +37,27 @@
 
 ---
 
-### 📂 Top Projects
+### 📂 Principais Projetos
 
 - 📊 [**E-Commerce 360**](https://github.com/pedrinhenrik/ecommerce-360)  
-  End-to-end analytics project for the Brazilian e-commerce market, including ETL pipelines (PostgreSQL), predictive modeling (XGBoost + SHAP), and interactive Tableau dashboards for logistics, customer satisfaction, and revenue risk insights.
+  Projeto de análise ponta a ponta para o mercado de e-commerce brasileiro, incluindo pipelines ETL (PostgreSQL), modelagem preditiva (XGBoost + SHAP) e dashboards interativos no Tableau para insights sobre logística, satisfação do cliente e riscos de receita.  
 
-![Dashboard Preview](https://github.com/pedrinhenrik/ecommerce-360/blob/main/docs/DashBoard_Preview.png)
+- ⚽ [**Brasileirão 2025 PowerDash**](https://github.com/pedrinhenrik/brasileirao-2025-powerdash)  
+  ETL em Python + scrapers da API Football-Data.org e sites de estatísticas, produzindo tabelas normalizadas para análise no Power BI.  
 
-- 🚀  [**Falcon 9 Landing Prediction**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
- First-stage landing classifier built from SpaceX API + Wikipedia scraping. Model benchmarking with Logistic Regression, SVM, Decision Tree and KNN; best SVM at **84% accuracy**. Interactive Plotly/Folium dashboard.
+- 🚀 [**Predição de Pouso do Falcon 9**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
+  Classificador de pouso do primeiro estágio do Falcon 9, construído a partir da API da SpaceX + scraping da Wikipedia. Benchmarking de modelos com Regressão Logística, SVM, Árvore de Decisão e KNN; melhor resultado com SVM em **84% de acurácia**. Dashboard interativo com Plotly/Folium.  
 
-- 🧩 [**Crypto Data Pipeline**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
-  A complete data pipeline using Airflow, Docker, PostgreSQL, and Dash to monitor, transform, and visualize hourly price data of the top 10 cryptocurrencies.
+- 🧩 [**Pipeline de Dados de Criptomoedas**](https://github.com/pedrinhenrik/crypto-data-pipeline)  
+  Pipeline de dados completo utilizando Airflow, Docker, PostgreSQL e Dash para monitorar, transformar e visualizar preços horários das 10 principais criptomoedas.  
 
-- 📑 [**DEV.to Scraper & Twitter Bot**](https://github.com/pedrinhenrik/devto-scraper)  
-  Automated scraper for DEV.to posts with MySQL storage, Excel reports, data visualizations, and a Twitter (X) posting bot with preview screenshot generation.
-
-
+- 📑 [**Scraper do DEV.to & Bot do Twitter**](https://github.com/pedrinhenrik/devto-scraper)  
+  Scraper automatizado de posts do DEV.to com armazenamento em MySQL, relatórios em Excel, visualizações de dados e um bot do Twitter (X) que posta automaticamente com prévias em imagem.  
 ---
 
-### 📫 Get in Touch
+### 📫 Entre em Contato
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-henrique-liberal/)  
-- 📧 Email: pedroliberal100@gmail.com
-- 📱 Phone/WhatsApp: +55 (61) 9 9891-5835
+- 📧 E-mail: pedroliberal100@gmail.com  
+- 📱 Telefone/WhatsApp: +55 (61) 9 9891-5835  
 ---
