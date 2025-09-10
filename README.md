@@ -26,6 +26,8 @@
 - 📊 [**E-Commerce 360**](https://github.com/pedrinhenrik/ecommerce-360)  
   End-to-end analytics project for the Brazilian e-commerce market, including ETL pipelines (PostgreSQL), predictive modeling (XGBoost + SHAP), and interactive Tableau dashboards for logistics, customer satisfaction, and revenue risk insights.
 
+![Dashboard Preview](https://github.com/pedrinhenrik/ecommerce-360/blob/main/docs/DashBoard_Preview.png)
+
 - 🚀  [**Falcon 9 Landing Prediction**](https://github.com/pedrinhenrik/falcon9-landing-prediction)  
  First-stage landing classifier built from SpaceX API + Wikipedia scraping. Model benchmarking with Logistic Regression, SVM, Decision Tree and KNN; best SVM at **84% accuracy**. Interactive Plotly/Folium dashboard.
 
